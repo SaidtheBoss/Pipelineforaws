@@ -1,4 +1,4 @@
-module "ec2_app_1" {
+module "ec2_app_113" {
     source = "../../MODULES/EC2"
 
     environment = var.environment
